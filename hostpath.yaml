@@ -14,3 +14,4 @@ spec:
   - name: test-hostpath
     hostPath:
       path: /data
+      type: DirectoryOrCreate
