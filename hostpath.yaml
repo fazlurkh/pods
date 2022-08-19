@@ -3,7 +3,6 @@ kind: Pod
 metadata:
   name: hostpth
 spec:
-  nodeName: kube-master
   containers:
   - image: nginx
     name: test-container
