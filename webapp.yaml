@@ -19,6 +19,6 @@ spec:
         name: web-application-container
         resources:
           limits:
-            cpu: "10m"
+            cpu: "100m"
           requests:
-            cpu: "10m"
+            cpu: "100m"
